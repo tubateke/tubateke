@@ -14,7 +14,7 @@
 <!-- - 💬 Ask me about anything, I am happy to that -->
 <!-- - 😄 Pronouns: ...-->
 
-<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+<img align="align" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
 
 **My GitHub Stats**
 
