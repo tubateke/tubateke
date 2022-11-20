@@ -16,8 +16,10 @@
 - ⚡ Fun fact: ...
 <br>
 
+<img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="408" height="318" />
+
 **My GitHub Stats**
 
-
-
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=tubateke&show_icons=true&theme=gradient) 
+
+
